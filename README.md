@@ -1,9 +1,10 @@
 # authenticode-rs
 
-## Documentation
+## Documentation/Reference
 
 * https://learn.microsoft.com/en-us/windows/win32/debug/pe-format
 * https://lief.re/doc/latest/tutorials/13_pe_authenticode.html
+* https://learn.microsoft.com/fr-fr/dotnet/framework/tools/signtool-exe?source=recommendations
 
 ## Project
 
