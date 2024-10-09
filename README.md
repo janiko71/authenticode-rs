@@ -1,5 +1,12 @@
 # authenticode-rs
 
+## Documentation
+
+* https://learn.microsoft.com/en-us/windows/win32/debug/pe-format
+* https://lief.re/doc/latest/tutorials/13_pe_authenticode.html
+
+## Project
+
 [![Coverage Status](https://coveralls.io/repos/github/google/authenticode-rs/badge.svg?branch=main)](https://coveralls.io/github/google/authenticode-rs?branch=main)
 
 This repo contains tools for working with authenticode signatures as
